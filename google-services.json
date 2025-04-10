@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690585400768",
+    "project_id": "prayer-monitor",
+    "storage_bucket": "prayer-monitor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690585400768:android:95b1f18f86ca5f63958425",
+        "android_client_info": {
+          "package_name": "com.prayermonitor.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFgZZWBS0ZGOyHomQeabq0eRXeVJSno0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

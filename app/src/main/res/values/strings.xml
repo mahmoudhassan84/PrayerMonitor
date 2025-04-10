@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prayer Monitor</string>
+    <string name="title_home">Home</string>
+    <string name="title_prayers">Prayers</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profile">Profile</string>
+    <string name="prayer_fajr">Fajr</string>
+    <string name="prayer_dhuhr">Dhuhr</string>
+    <string name="prayer_asr">Asr</string>
+    <string name="prayer_maghrib">Maghrib</string>
+    <string name="prayer_isha">Isha</string>
+    <string name="prayer_performed">Performed</string>
+    <string name="prayer_on_time">On Time</string>
+    <string name="prayer_in_mosque">In Mosque</string>
+    <string name="prayer_in_group">In Group</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>

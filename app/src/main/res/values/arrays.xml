@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time_ranges">
+        <item>Last Week</item>
+        <item>Last Month</item>
+        <item>Last 3 Months</item>
+        <item>Last Year</item>
+    </string-array>
+    
+    <string-array name="prayer_types">
+        <item>All Prayers</item>
+        <item>Fajr</item>
+        <item>Dhuhr</item>
+        <item>Asr</item>
+        <item>Maghrib</item>
+        <item>Isha</item>
+    </string-array>
+</resources>
