@@ -26,9 +26,12 @@ jobs:
     
     - name: Build with Gradle
       run: ./gradlew build
+      
+    - name: List available Gradle tasks
+      run: ./gradlew tasks --all
     
     - name: Build Debug APK
-      run: ./gradlew :app:assembleDebug
+      run: ./gradlew assembleDebug
     
     - name: Upload APK
       uses: actions/upload-artifact@main
